@@ -4,6 +4,8 @@ import OurBreads from "./components/OurBreads";
 import WhyUs from "./components/WhyUs";
 import OurMenu from "./components/OurMenu";
 import Banner from "./components/Banner";
+import Clients from "./components/Clients";
+import Contact from "./components/Contact";
 
 export default function Home() {
   return (
@@ -13,6 +15,8 @@ export default function Home() {
   <WhyUs/>
   <OurMenu/>
   <Banner/>
+  <Clients/>
+  <Contact/>
 </div>
   );
 }
