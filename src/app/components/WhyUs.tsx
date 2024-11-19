@@ -21,7 +21,7 @@ const WhyUs = () => {
     <section id='why-us' className='w-full flex lg:flex-row flex-col justify-between items-center'>
 
       <div id='content-section' className='lg:w-[50%] w-full flex flex-col justify-center items-center gap-10 p-20'>
-        <h1 className='text-[50px] text-black text-center leading-[55px]'> Where Every Treat <br /> <br />Tells a Tale</h1>
+        <h1 className='text-[50px] text-black text-center leading-[55px]'> Where Every Treat <br />Tells a Tale</h1>
         <p data-aos="zoom-in" data-aos-delay="200" className='text-center text-xl text-slate-600'> Lorem ipsum dolor sit amet. Sit quae sunt quo consequatur laborum et iusto sunt et quae laborum eum laborum pariatur! Non sequi asperiores ex earum voluptatibus est blanditiis veritatis sit incidunt incidunt
         </p>
 
