@@ -20,7 +20,7 @@ const OurBreads = () => {
 
 
   return (
-    <section id='brewads' className='flex w-full flex-col justify-center items-center gap-10 bg-cover h-fit py-20 lg:px-20 px-10 bg-center' style={{ backgroundImage: `url('/banner4.jpg')` }}>
+    <section id='breads' className='flex w-full flex-col justify-center items-center gap-10 bg-cover h-fit py-20 lg:px-20 px-10 bg-center' style={{ backgroundImage: `url('/banner4.jpg')` }}>
 
       <h1 data-aos="zoom-in" className='text-[55px] text-white font-semibold'>
         Our Breads

@@ -19,7 +19,7 @@ const Contact = () => {
 
 
   return (
-    <section id='contact-section' className='w-full flex flex-col justify-start items-end gap-20 bg-cover h-fit lg:px-20 px-10 py-10 lg:py-20 bg-center' style={{ backgroundImage: `url("/banner.jpg")` }}>
+    <section id='contact' className='w-full flex flex-col justify-start items-end gap-20 bg-cover h-fit lg:px-20 px-10 py-10 lg:py-20 bg-center' style={{ backgroundImage: `url("/banner.jpg")` }}>
 
       <div className='lg:w-[40%] w-full flex flex-col justify-start items-center gap-10'>
         <h1 data-aos="zoom-in" data-aos-delay="200" className='text-black text-[55px] font-semibold text-center'> Contact US </h1>

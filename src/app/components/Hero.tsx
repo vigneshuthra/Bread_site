@@ -16,7 +16,7 @@ const Hero = () => {
   }, [])
 
   return (
-    <section id='Hero' className='w-full flex lg:flex-row flex-col justify-between items-start'>
+    <section id='hero' className='w-full flex lg:flex-row flex-col justify-between items-start'>
       <div id='image-section' className='lg:w-[50%] w-full'>
         <Image src="/hero.jpg" alt={''} data-aos="zoom-in" width={800} height={500} className='bg-cover bg-center' />
       </div>
